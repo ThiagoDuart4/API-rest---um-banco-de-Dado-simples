@@ -1,0 +1,102 @@
+{
+  "remedios": [
+    {
+      "id": 1,
+      "nome": "Dorflex",
+      "descricao": "Dorflex é indicado no alívio da dor associada a contraturas musculares, incluindo dor de cabeça tensional.",
+      "preco": 8.5
+    },
+    {
+      "id": 2,
+      "nome": "Lorzatana",
+      "descricao": "Losartana potássica é indicada para tratar pressão alta e insuficiência cardíaca. Pode ser usado também na prevenção do AVC e problemas de rins em resultado de diabetes tipo 2 ou para ajudar na recuperação após ataque cardíaco.",
+      "preco": 10.5
+    },
+    {
+      "id": 3,
+      "nome": "Histamin",
+      "descricao": "Histamin® é destinado para alergia, prurido, rinite alérgica, urticária, picada de inseto, conjuntivite alérgica, dermatite atópica (um tipo de inflamação na pele) e eczemas alérgicos (dermatite).",
+      "preco": 12.5
+    },
+    {
+      "id": 4,
+      "nome": "Dipirona",
+      "descricao": "Indicado para aliviar a dor e para baixar a febre.",
+      "preco": 14.5
+    },
+    {
+      "id": 5,
+      "nome": "Benegrip",
+      "descricao": "Benegrip® é indicado para alívio dos sintomas decorrentes das gripes e resfriados, como dores de cabeça, febre e processos alérgicos.",
+      "preco": 5.5
+    },
+    {
+      "id": 6,
+      "nome": "Mult-grip",
+      "descricao": "O Multigrip é indicado no tratamento dos sintomas de gripes e resfriados, para o alívio da congestão nasal, coriza, febre, dor de cabeça e dores musculares presentes nos estados gripais.",
+      "preco": 7.5
+    },
+    {
+      "nome": "Paracetamol",
+      "descricao": "Paracetamol é um analgésico e antipirético, sendo indicado para a alívio da dor de intensidade leve a moderada, incluindo dor de cabeça, enxaqueca, dor músculo esquelética, cólicas menstruais, dor de garganta, dor de dente, dor pós-procedimentos odontológicos, dor e febre após vacinação, e dor de osteoartrite.",
+      "preco": 10.5,
+      "id": 7
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Sergio",
+      "funcao": "Chefe",
+      "descricao": "Podemos simplificar dizendo que ele gerencia pessoas. Na maioria dos casos, são centralizadores de poder, esperam obediência e impõem ordens, pois se veem um uma posição superior no nível hierárquico."
+    },
+    {
+      "id": 2,
+      "nome": "Caio",
+      "funcao": "Gerente",
+      "descricao": " Principais funções: planejamento, organização, controle, definição de estratégias etc. Porém, vale lembrar que existem gerentes atuando em diversos setores, resultando em funções específicas que variam de acordo com o seu setor de atuação."
+    },
+    {
+      "id": 3,
+      "nome": "Patricia",
+      "funcao": "Estoquista",
+      "descricao": " E armazenar mercadorias. Esse profissional é responsável pelo estoque de uma empresa, bem como pela sua organização. Para isso, o estoquista é encarregado da escrituração do livro de controle de estoque, conferindo sempre o que entra e o que sai de material."
+    },
+    {
+      "id": 4,
+      "nome": "Fernanda",
+      "funcao": "Balconista",
+      "descricao": "Atende clientes em lojas, telefone e realiza coleta de pedidos e encomendas. Demonstra produtos e efetua vendas internas. Confere, armazena, vende, cobra e organiza mercadorias."
+    }
+  ],
+  "vendas": [
+    {
+      "id": 1,
+      "descricao": "Venda de um Lorzazatana",
+      "preco": 10.5,
+      "Horario": "As 10:45 da manha",
+      "Data": "15/12"
+    },
+    {
+      "id": 2,
+      "descricao": "Venda de um Dorflex",
+      "preco": 8.5,
+      "Horario": "As 11:00 da manha",
+      "Data": "15/12"
+    },
+    {
+      "id": 3,
+      "descricao": "Venda de um histamin",
+      "preco": 12.5,
+      "Horario": "As 15:00 da tarde",
+      "Data": "16/12"
+    },
+    {
+      "id": 4,
+      "descricao": "Venda de um Benegrip",
+      "preco": 5.5,
+      "Horario": " As 17:45 da tarde",
+      "Data": "16/12"
+    }
+  ]
+}
